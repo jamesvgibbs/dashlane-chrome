@@ -8,7 +8,7 @@
     <authors>dashlane.com</authors>
     <owners>jamesvgibbs</owners>
     <projectUrl>https://chrome.google.com/webstore/detail/dashlane-password-manager/fdjamakpfbbddfjaooikfcpapjohcfmg</projectUrl>
-    <iconUrl>https://lh3.googleusercontent.com/-Lgwn9wx_WVFHOuo4fjgby839t4JzvHmW2iv97oQXY5f5b_bUDUeeLMcq2DdxS7sne-s60KuUg=w128-h128-e365</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/jimgibbs/jimgibbs.github.io/931328aeba325dc1381c0f492df9eb0777159ed3/img/dashlane.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>dashlane chrome extension</tags>
     <summary>Chrome extension which adds password manager dashlane.</summary>
