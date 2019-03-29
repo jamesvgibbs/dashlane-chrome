@@ -9,6 +9,8 @@
     <owners>jamesvgibbs</owners>
     <projectUrl>https://chrome.google.com/webstore/detail/dashlane-password-manager/fdjamakpfbbddfjaooikfcpapjohcfmg</projectUrl>
     <iconUrl>https://rawcdn.githack.com/jimgibbs/jimgibbs.github.io/931328aeba325dc1381c0f492df9eb0777159ed3/img/dashlane.png</iconUrl>
+    <licenseUrl></licenseUrl>
+    <packageSourceUrl>https://github.com/jimgibbs/dashlane-chrome</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>dashlane chrome extension</tags>
     <summary>Chrome extension which adds password manager dashlane.</summary>

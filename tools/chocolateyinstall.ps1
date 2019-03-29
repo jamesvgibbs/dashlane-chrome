@@ -11,7 +11,6 @@ if ($bits -eq 64) {
         New-ItemProperty -Path "HKLM:\SOFTWARE\Wow6432node\Google\Chrome\Extensions\$extensionID\" -Name "ChocolateyPackageName" -Value "$packageName"		 
     }
 }
-else {
-    New-Item -Path "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID" 
-    New-ItemProperty -Path "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID\" -Name "update_url" -Value "https://clients2.google.com/service/update2/crx"
-}
+
+New-Item -Path "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID" 
+New-ItemProperty -Path "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID\" -Name "update_url" -Value "https://clients2.google.com/service/update2/crx"
